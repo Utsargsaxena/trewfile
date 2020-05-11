@@ -1,0 +1,181 @@
+.navbar-nav{
+	margin-left: 80px;
+	font-size: 130%;
+	font-weight: normal;
+}
+
+a{
+	font-size: 150%;
+	color: solid white;
+
+}
+
+img{
+	height: 120px;
+	width: 170px;
+}
+#homee{
+	margin-left: 40px;
+}
+#Profile{
+margin-left: 80px	
+}
+#Messages{
+	margin-left: 80px	
+
+}
+#Reports{
+	margin-left: 80px	
+
+}
+#trew{
+	color: white;
+	font-size: 200%;
+	font-family: sans-serif;
+	letter-spacing: 3px;
+}
+.heads{ 
+	margin-left: 500px;
+	margin-top: 20px;
+	font-size: 300%;
+	color:green;
+	font-family: monospace;
+	letter-spacing: 3px;
+	font-weight: bolder;
+
+}
+.heading{
+	margin-left: 50px;
+	margin-top: 20px;
+	font-size: 200%;
+	color:khaki;
+	font-family: monospace;
+	letter-spacing: 3px;
+	font-weight: bolder;
+}
+
+.subheading{
+	
+	font-size: 150%;
+	color: white;
+	font-family: cursive;
+	margin-left:100px;
+
+
+}
+.container-fluid{
+	margin-top: -20px;
+}
+ul{
+	font-size: 200%;
+	margin-left:200px;
+
+}
+ .section-heading{
+    	text-align: center;
+    	margin-top: 10rem;
+    }
+    .section-heading .heading{
+    	font-size: 3.5rem;
+    	text-transform: uppercase;
+    	font-weight: 300;
+    	position: relative;
+    	color: white;
+    	margin-bottom: 1rem;
+    	margin-top: -50px; 
+    }
+    .section-heading .heading::before,
+    .section-heading .heading::after{
+    	content: '';
+    	position: absolute;
+    	bottom: -.5rem;
+    	left: 50%;
+    	transform:  translateX(-50%);
+    	background-color: green;
+    }
+     .section-heading .heading::before{
+     	width: 10rem;
+     	height: 3px;
+     	border-radius: .8rem;
+     }
+     .section-heading .heading::after{
+     	width: 1.5rem;
+     	height: 1.5rem;
+     	border-radius: 100%;
+     	bottom: -1rem;
+
+     }.container{
+     	width: 100%;
+     	max-width: 120rem;
+     	height: 100%;
+     	margin:0 auto;
+     	position: relative;
+     }
+    .section-heading .subheading{
+    	font-size: 1.6rem;
+    	font-weight: 300;
+    }
+    .my-skills{
+    	margin-top: 0rem;
+    	display: grid;
+    	grid-template-columns: repeat(auto-fit,minmax(25rem,1fr));
+    	grid-gap: 2rem;
+    	text-align: center;
+    }
+    .skill{
+    	display: flex;
+    	flex-direction: column;
+    	justify-content: center;
+    	align-items: center;
+    	padding: 1rem;
+    }
+ 	.skill.heading{
+ 		text-transform: uppercase;
+ 		letter-spacing: 2px;
+ 		margin:2rem -2px 2rem 0;
+
+ 	}
+ 	.Month1{
+ 		font-size: 150%;
+ 		margin-top: 50px;
+ 		margin-left: 50px;
+ 		font-weight: bold;
+ 		color:green;
+
+ 	}
+ 	ol{
+ 		font-size:120%;
+ 		color: 	black;
+ 	}
+ 	.Month2{
+ 		font-size: 150%;
+ 		margin-top: -300px;
+ 		margin-left: 750px;
+ 		font-weight: bold;
+ 		color:green;
+ 	}
+ 	.type2{font-size:120%;
+ 		color: 	black;
+ 		margin-left: 750px;
+
+ 	}
+ 	.container-fluid .quote{
+ 		margin-top: 0px;
+ 		background-color: black;
+ 		color: #CCFFCC;
+ 		width: 100%;
+ 		float: right;
+ 	}
+ 	#quote{
+ 		margin-left: 200px;
+ 		font-size: 150%;
+ 		font-family:
+ 	}
+.full{
+	background-image: url("bgg.jpg" );
+  background-repeat: no-repeat;
+
+
+}li{
+	color: white;
+}
